@@ -5,4 +5,4 @@ on-device machine learning pipeline development and integration with the Apple-v
 applications, my recent work at the [STC Research Foundation](https://github.com/STCData) was focused on application of
 NLP and vision, conversational AIs to the macOS/iOS apps.
 
-Besides mentioned I have in-depth exprierience in embedded Rust, Android Jet Pack, flight simulators, game development
+Besides mentioned I have in-depth exprierience in embedded [Rust](https://github.com/darvin/plato), Android Jet Pack, flight simulators, game development
