@@ -7,4 +7,4 @@ on-device machine learning pipeline development and integration with the Apple-v
 applications, my recent work at the [STC Research Foundation](https://github.com/STCData) was focused on application of
 NLP and vision, [conversational AIs](https://github.com/darvin/ChatGPTDOS) to the macOS/iOS apps.
 
-Besides mentioned I have in-depth exprierience in embedded [Rust](https://github.com/darvin/plato), [Android Jet Pack](https://github.com/darvin/LikeAFly), [flight simulators](https://github.com/darvin/AirSim), game development
+My projects by languages: [Swift](https://github.com/darvin?tab=repositories&q=&type=&language=swift&sort=), [Objective-C](https://github.com/darvin?tab=repositories&q=&type=&language=objective-c&sort=), [TypeScript](https://github.com/darvin?tab=repositories&q=&type=&language=typescript&sort=), [JavaScript](https://github.com/darvin?tab=repositories&q=&type=&language=javascript&sort=), [Python](https://github.com/darvin?tab=repositories&q=&type=&language=python&sort=), [Kotlin](https://github.com/darvin?tab=repositories&q=&type=&language=kotlin&sort=), [Rust](https://github.com/darvin?tab=repositories&q=&type=&language=rust&sort=)
