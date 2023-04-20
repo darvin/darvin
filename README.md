@@ -2,7 +2,7 @@
 
 I am an ex-Apple iOS/macOS engineer, with deep hands-on experience of integration of
 CoreML, RealityKit, as well as knowledge of Machine Learning approaches and usage of the
-on-device ML techniques in the production at scale. Durin my time at Apple I was focused on
+on-device ML techniques in the production at scale. During my time at Apple I was focused on
 on-device machine learning pipeline development and integration with the Apple-vendored
 applications, my recent work at the [STC Research Foundation](https://github.com/STCData) was focused on application of
 NLP and vision, conversational AIs to the macOS/iOS apps.
