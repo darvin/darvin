@@ -1,4 +1,4 @@
-[Resume/CV (pdf)](https://github.com/darvin/darvin/files/11266552/Resume-Stefan-Novak-7.pdf)
+[Resume/CV (pdf)](https://github.com/darvin/darvin/files/11311613/Resume-Stefan-Novak.6.pdf)
 
 I am an ex-Apple iOS/macOS engineer, with deep hands-on experience of integration of
 CoreML, RealityKit, as well as knowledge of Machine Learning approaches and usage of the
